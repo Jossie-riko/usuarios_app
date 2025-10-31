@@ -12,7 +12,7 @@ console.error('Error conectando a la base de datos:',
 err);
 return;
 }
-console.log('✅ Conectado a MySQL');
+console.log(' Conectado a MySQL');
 });
 
 module.exports = connection;
